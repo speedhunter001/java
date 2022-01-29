@@ -1,0 +1,2 @@
+public class OptPaidCourses{
+}
